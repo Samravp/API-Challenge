@@ -21,7 +21,7 @@ I ran linear regression on each relationship below;
 
 My final notebook includes:
 
-Randomly selected unique (non-repeat) cities based on latitude and longitude.
-Weather check on each of the cities using a series of successive API calls.
-A print log of each city as it's being processed with the city number and city name.
-A CSV of all retrieved data and a PNG image for each scatter plot.
+- Randomly selected unique (non-repeat) cities based on latitude and longitude.
+- Weather check on each of the cities using a series of successive API calls.
+- A print log of each city as it's being processed with the city number and city name.
+- A CSV of all retrieved data and a PNG image for each scatter plot.
