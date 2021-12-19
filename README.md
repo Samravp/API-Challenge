@@ -1,4 +1,5 @@
-# API-Challenge
+# Gmaps API
+
 This repository is for a project called python-api-challenge.
 
 I started by creating a Python script to visualise the weather of 500+ cities across the world of varying distance from the equator.
